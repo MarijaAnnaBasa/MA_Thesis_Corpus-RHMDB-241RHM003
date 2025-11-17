@@ -1,6 +1,6 @@
 # Introduction
 
-The present repository concerns the corpus created for the empirical analysis of Master's Thesis 'Comparative Discourse Analysis of Russia-Ukraine War Coverage in Russian and Ukrainian Online Media Outlets' conducted within the RTU studies program RHMDB Digital Humanities. The research author is Marija Anna Baša; identity card number is 241RHM003.
+The present repository concerns the corpus created for the empirical analysis of Master's Thesis 'Comparative Discourse Analysis of Russia-Ukraine War Coverage in Russian and Ukrainian Online Media Outlets' conducted within the RTU studies program RHMDB Digital Humanities. The research author is **Marija Anna Baša**; identity card number is **241RHM003**.
 Thus, the repository regards the matter of both the analysed corpora and the Python code created, being noted for one to perform the analysis concerning themes and narratives, framing of events, and propaganda and ideology setting within the corpus of the selected articles, i.e., that of *Sputnik* and *The Kyiv Independent*.
 
 ## Contents
